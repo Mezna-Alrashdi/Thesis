@@ -1,0 +1,51 @@
+premise_1,premise_2,inferred,support_count
+bore HasPainCharacter sharp,sharp CapableOf damage,bore CapableOf damage,1
+bore HasPainCharacter sharp,sharp CapableOf hurt,bore CapableOf hurt,1
+bore HasPainCharacter sharp,sharp CapableOf pierce through human skin,bore CapableOf pierce through human skin,1
+bore HasPainCharacter sharp,sharp CapableOf hurt person,bore CapableOf hurt person,1
+bore HasPainCharacter hot,hot CapableOf burn hand,bore CapableOf burn hand,1
+bore HasPainCharacter hot,hot CapableOf mean sexy,bore CapableOf mean sexy,1
+bore HasPainCharacter hot,hot CapableOf kill human,bore CapableOf kill human,1
+bore HasPainCharacter hot,hot CapableOf warm cold,bore CapableOf warm cold,1
+heavy HasPainCharacter pressure,pressure CapableOf break,heavy CapableOf break,1
+heavy HasPainCharacter pressure,pressure CapableOf press matter,heavy CapableOf press matter,1
+drill HasPainCharacter sharp,sharp CapableOf damage,drill CapableOf damage,1
+drill HasPainCharacter sharp,sharp CapableOf hurt,drill CapableOf hurt,1
+drill HasPainCharacter sharp,sharp CapableOf pierce through human skin,drill CapableOf pierce through human skin,1
+drill HasPainCharacter sharp,sharp CapableOf hurt person,drill CapableOf hurt person,1
+sear HasPainCharacter hot,hot CapableOf burn hand,sear CapableOf burn hand,1
+sear HasPainCharacter hot,hot CapableOf mean sexy,sear CapableOf mean sexy,1
+sear HasPainCharacter hot,hot CapableOf kill human,sear CapableOf kill human,1
+sear HasPainCharacter hot,hot CapableOf warm cold,sear CapableOf warm cold,1
+stab HasPainCharacter sharp,sharp CapableOf damage,stab CapableOf damage,1
+stab HasPainCharacter sharp,sharp CapableOf hurt,stab CapableOf hurt,1
+stab HasPainCharacter sharp,sharp CapableOf pierce through human skin,stab CapableOf pierce through human skin,1
+stab HasPainCharacter sharp,sharp CapableOf hurt person,stab CapableOf hurt person,1
+crush HasPainCharacter pressure,pressure CapableOf break,crush CapableOf break,1
+crush HasPainCharacter pressure,pressure CapableOf press matter,crush CapableOf press matter,1
+prick HasPainCharacter sharp,sharp CapableOf damage,prick CapableOf damage,1
+prick HasPainCharacter sharp,sharp CapableOf hurt,prick CapableOf hurt,1
+prick HasPainCharacter sharp,sharp CapableOf pierce through human skin,prick CapableOf pierce through human skin,1
+prick HasPainCharacter sharp,sharp CapableOf hurt person,prick CapableOf hurt person,1
+gnaw HasPainCharacter pressure,pressure CapableOf break,gnaw CapableOf break,1
+gnaw HasPainCharacter pressure,pressure CapableOf press matter,gnaw CapableOf press matter,1
+pinch HasPainCharacter pressure,pressure CapableOf break,pinch CapableOf break,1
+pinch HasPainCharacter pressure,pressure CapableOf press matter,pinch CapableOf press matter,1
+lacerate HasPainCharacter sharp,sharp CapableOf damage,lacerate CapableOf damage,1
+lacerate HasPainCharacter sharp,sharp CapableOf hurt,lacerate CapableOf hurt,1
+lacerate HasPainCharacter sharp,sharp CapableOf pierce through human skin,lacerate CapableOf pierce through human skin,1
+lacerate HasPainCharacter sharp,sharp CapableOf hurt person,lacerate CapableOf hurt person,1
+get stab knife HasPainCharacter sharp,sharp CapableOf damage,get stab knife CapableOf damage,1
+get stab knife HasPainCharacter sharp,sharp CapableOf hurt,get stab knife CapableOf hurt,1
+get stab knife HasPainCharacter sharp,sharp CapableOf pierce through human skin,get stab knife CapableOf pierce through human skin,1
+get stab knife HasPainCharacter sharp,sharp CapableOf hurt person,get stab knife CapableOf hurt person,1
+scald HasPainCharacter hot,hot CapableOf burn hand,scald CapableOf burn hand,1
+scald HasPainCharacter hot,hot CapableOf mean sexy,scald CapableOf mean sexy,1
+scald HasPainCharacter hot,hot CapableOf kill human,scald CapableOf kill human,1
+scald HasPainCharacter hot,hot CapableOf warm cold,scald CapableOf warm cold,1
+elephant sit chest HasPainCharacter pressure,pressure CapableOf break,elephant sit chest CapableOf break,1
+elephant sit chest HasPainCharacter pressure,pressure CapableOf press matter,elephant sit chest CapableOf press matter,1
+lancinate HasPainCharacter sharp,sharp CapableOf damage,lancinate CapableOf damage,1
+lancinate HasPainCharacter sharp,sharp CapableOf hurt,lancinate CapableOf hurt,1
+lancinate HasPainCharacter sharp,sharp CapableOf pierce through human skin,lancinate CapableOf pierce through human skin,1
+lancinate HasPainCharacter sharp,sharp CapableOf hurt person,lancinate CapableOf hurt person,1

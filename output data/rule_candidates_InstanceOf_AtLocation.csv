@@ -1,0 +1,531 @@
+premise_1,premise_2,inferred,support_count
+earth InstanceOf planet solar system,planet solar system AtLocation water,earth AtLocation water,1
+earth InstanceOf planet solar system,planet solar system AtLocation bedroom,earth AtLocation bedroom,1
+earth InstanceOf planet solar system,planet solar system AtLocation cabinet,earth AtLocation cabinet,1
+earth InstanceOf planet solar system,planet solar system AtLocation university,earth AtLocation university,1
+earth InstanceOf planet solar system,planet solar system AtLocation space,earth AtLocation space,1
+yerevan InstanceOf city,city AtLocation county,yerevan AtLocation county,1
+yerevan InstanceOf city,city AtLocation province,yerevan AtLocation province,1
+yerevan InstanceOf city,city AtLocation germany,yerevan AtLocation germany,1
+yerevan InstanceOf city,city AtLocation surface earth,yerevan AtLocation surface earth,1
+yerevan InstanceOf city,city AtLocation unite state,yerevan AtLocation unite state,1
+yerevan InstanceOf city,city AtLocation bus,yerevan AtLocation bus,1
+yerevan InstanceOf city,city AtLocation opus,yerevan AtLocation opus,1
+yerevan InstanceOf city,city AtLocation disarray,yerevan AtLocation disarray,1
+yerevan InstanceOf city,city AtLocation fast-food restaurant,yerevan AtLocation fast-food restaurant,1
+yerevan InstanceOf city,city AtLocation australia,yerevan AtLocation australia,1
+yerevan InstanceOf city,city AtLocation philippine,yerevan AtLocation philippine,1
+yerevan InstanceOf city,city AtLocation city,yerevan AtLocation city,1
+yerevan InstanceOf city,city AtLocation any large city,yerevan AtLocation any large city,1
+yerevan InstanceOf city,city AtLocation big city,yerevan AtLocation big city,1
+yerevan InstanceOf city,city AtLocation pet shop,yerevan AtLocation pet shop,1
+yerevan InstanceOf city,city AtLocation kitchen,yerevan AtLocation kitchen,1
+yerevan InstanceOf city,city AtLocation forest,yerevan AtLocation forest,1
+yerevan InstanceOf city,city AtLocation desk,yerevan AtLocation desk,1
+yerevan InstanceOf city,city AtLocation mall,yerevan AtLocation mall,1
+yerevan InstanceOf city,city AtLocation drawer,yerevan AtLocation drawer,1
+yerevan InstanceOf city,city AtLocation state province,yerevan AtLocation state province,1
+yerevan InstanceOf city,city AtLocation downtown,yerevan AtLocation downtown,1
+yerevan InstanceOf city,city AtLocation urban area,yerevan AtLocation urban area,1
+brazil InstanceOf country,country AtLocation globe map,brazil AtLocation globe map,1
+brazil InstanceOf country,country AtLocation forest,brazil AtLocation forest,1
+brazil InstanceOf country,country AtLocation great outdoors,brazil AtLocation great outdoors,1
+brazil InstanceOf country,country AtLocation wa4,brazil AtLocation wa4,1
+brazil InstanceOf country,country AtLocation war,brazil AtLocation war,1
+brazil InstanceOf country,country AtLocation africa,brazil AtLocation africa,1
+brazil InstanceOf country,country AtLocation rural,brazil AtLocation rural,1
+brazil InstanceOf country,country AtLocation rural area,brazil AtLocation rural area,1
+brazil InstanceOf country,country AtLocation midwest,brazil AtLocation midwest,1
+strawberry InstanceOf fruit,fruit AtLocation market,strawberry AtLocation market,1
+strawberry InstanceOf fruit,fruit AtLocation fruit grove,strawberry AtLocation fruit grove,1
+strawberry InstanceOf fruit,fruit AtLocation container,strawberry AtLocation container,1
+strawberry InstanceOf fruit,fruit AtLocation pantry,strawberry AtLocation pantry,1
+strawberry InstanceOf fruit,fruit AtLocation produce section,strawberry AtLocation produce section,1
+strawberry InstanceOf fruit,fruit AtLocation fruit cocktail,strawberry AtLocation fruit cocktail,1
+strawberry InstanceOf fruit,fruit AtLocation supermarket,strawberry AtLocation supermarket,1
+strawberry InstanceOf fruit,fruit AtLocation refridgerator,strawberry AtLocation refridgerator,1
+strawberry InstanceOf fruit,fruit AtLocation plate,strawberry AtLocation plate,1
+strawberry InstanceOf fruit,fruit AtLocation fridge,strawberry AtLocation fridge,1
+strawberry InstanceOf fruit,fruit AtLocation mouth,strawberry AtLocation mouth,1
+strawberry InstanceOf fruit,fruit AtLocation refriderator,strawberry AtLocation refriderator,1
+strawberry InstanceOf fruit,fruit AtLocation san francisco,strawberry AtLocation san francisco,1
+strawberry InstanceOf fruit,fruit AtLocation refrigerator,strawberry AtLocation refrigerator,1
+strawberry InstanceOf fruit,fruit AtLocation jar,strawberry AtLocation jar,1
+strawberry InstanceOf fruit,fruit AtLocation basket,strawberry AtLocation basket,1
+strawberry InstanceOf fruit,fruit AtLocation fruit bowl,strawberry AtLocation fruit bowl,1
+strawberry InstanceOf fruit,fruit AtLocation kitchen,strawberry AtLocation kitchen,1
+strawberry InstanceOf fruit,fruit AtLocation shop,strawberry AtLocation shop,1
+strawberry InstanceOf fruit,fruit AtLocation pizza,strawberry AtLocation pizza,1
+strawberry InstanceOf fruit,fruit AtLocation freezer,strawberry AtLocation freezer,1
+strawberry InstanceOf fruit,fruit AtLocation store,strawberry AtLocation store,1
+strawberry InstanceOf fruit,fruit AtLocation dinner,strawberry AtLocation dinner,1
+strawberry InstanceOf fruit,fruit AtLocation home,strawberry AtLocation home,1
+strawberry InstanceOf fruit,fruit AtLocation field,strawberry AtLocation field,1
+strawberry InstanceOf fruit,fruit AtLocation apartment,strawberry AtLocation apartment,1
+strawberry InstanceOf fruit,fruit AtLocation garden,strawberry AtLocation garden,1
+strawberry InstanceOf fruit,fruit AtLocation resturant,strawberry AtLocation resturant,1
+strawberry InstanceOf fruit,fruit AtLocation house,strawberry AtLocation house,1
+strawberry InstanceOf fruit,fruit AtLocation farmer market,strawberry AtLocation farmer market,1
+strawberry InstanceOf fruit,fruit AtLocation forest,strawberry AtLocation forest,1
+strawberry InstanceOf fruit,fruit AtLocation mall,strawberry AtLocation mall,1
+strawberry InstanceOf fruit,fruit AtLocation cupboard,strawberry AtLocation cupboard,1
+strawberry InstanceOf fruit,fruit AtLocation table,strawberry AtLocation table,1
+strawberry InstanceOf fruit,fruit AtLocation park,strawberry AtLocation park,1
+strawberry InstanceOf fruit,fruit AtLocation restaurant,strawberry AtLocation restaurant,1
+strawberry InstanceOf fruit,fruit AtLocation oven,strawberry AtLocation oven,1
+strawberry InstanceOf fruit,fruit AtLocation bowl,strawberry AtLocation bowl,1
+strawberry InstanceOf fruit,fruit AtLocation hang tree,strawberry AtLocation hang tree,1
+strawberry InstanceOf fruit,fruit AtLocation grocery store,strawberry AtLocation grocery store,1
+strawberry InstanceOf fruit,fruit AtLocation orchard,strawberry AtLocation orchard,1
+banana InstanceOf fruit,fruit AtLocation market,banana AtLocation market,1
+banana InstanceOf fruit,fruit AtLocation fruit grove,banana AtLocation fruit grove,1
+banana InstanceOf fruit,fruit AtLocation container,banana AtLocation container,1
+banana InstanceOf fruit,fruit AtLocation pantry,banana AtLocation pantry,1
+banana InstanceOf fruit,fruit AtLocation produce section,banana AtLocation produce section,1
+banana InstanceOf fruit,fruit AtLocation fruit cocktail,banana AtLocation fruit cocktail,1
+banana InstanceOf fruit,fruit AtLocation supermarket,banana AtLocation supermarket,1
+banana InstanceOf fruit,fruit AtLocation refridgerator,banana AtLocation refridgerator,1
+banana InstanceOf fruit,fruit AtLocation plate,banana AtLocation plate,1
+banana InstanceOf fruit,fruit AtLocation fridge,banana AtLocation fridge,1
+banana InstanceOf fruit,fruit AtLocation mouth,banana AtLocation mouth,1
+banana InstanceOf fruit,fruit AtLocation refriderator,banana AtLocation refriderator,1
+banana InstanceOf fruit,fruit AtLocation san francisco,banana AtLocation san francisco,1
+banana InstanceOf fruit,fruit AtLocation refrigerator,banana AtLocation refrigerator,1
+banana InstanceOf fruit,fruit AtLocation jar,banana AtLocation jar,1
+banana InstanceOf fruit,fruit AtLocation basket,banana AtLocation basket,1
+banana InstanceOf fruit,fruit AtLocation fruit bowl,banana AtLocation fruit bowl,1
+banana InstanceOf fruit,fruit AtLocation kitchen,banana AtLocation kitchen,1
+banana InstanceOf fruit,fruit AtLocation shop,banana AtLocation shop,1
+banana InstanceOf fruit,fruit AtLocation pizza,banana AtLocation pizza,1
+banana InstanceOf fruit,fruit AtLocation freezer,banana AtLocation freezer,1
+banana InstanceOf fruit,fruit AtLocation store,banana AtLocation store,1
+banana InstanceOf fruit,fruit AtLocation dinner,banana AtLocation dinner,1
+banana InstanceOf fruit,fruit AtLocation home,banana AtLocation home,1
+banana InstanceOf fruit,fruit AtLocation field,banana AtLocation field,1
+banana InstanceOf fruit,fruit AtLocation apartment,banana AtLocation apartment,1
+banana InstanceOf fruit,fruit AtLocation garden,banana AtLocation garden,1
+banana InstanceOf fruit,fruit AtLocation resturant,banana AtLocation resturant,1
+banana InstanceOf fruit,fruit AtLocation house,banana AtLocation house,1
+banana InstanceOf fruit,fruit AtLocation farmer market,banana AtLocation farmer market,1
+banana InstanceOf fruit,fruit AtLocation forest,banana AtLocation forest,1
+banana InstanceOf fruit,fruit AtLocation mall,banana AtLocation mall,1
+banana InstanceOf fruit,fruit AtLocation cupboard,banana AtLocation cupboard,1
+banana InstanceOf fruit,fruit AtLocation table,banana AtLocation table,1
+banana InstanceOf fruit,fruit AtLocation park,banana AtLocation park,1
+banana InstanceOf fruit,fruit AtLocation restaurant,banana AtLocation restaurant,1
+banana InstanceOf fruit,fruit AtLocation oven,banana AtLocation oven,1
+banana InstanceOf fruit,fruit AtLocation bowl,banana AtLocation bowl,1
+banana InstanceOf fruit,fruit AtLocation hang tree,banana AtLocation hang tree,1
+banana InstanceOf fruit,fruit AtLocation grocery store,banana AtLocation grocery store,1
+banana InstanceOf fruit,fruit AtLocation orchard,banana AtLocation orchard,1
+mit InstanceOf university,university AtLocation university student,mit AtLocation university student,1
+mit InstanceOf university,university AtLocation chemistry lab,mit AtLocation chemistry lab,1
+mit InstanceOf university,university AtLocation florida,mit AtLocation florida,1
+mit InstanceOf university,university AtLocation drawer,mit AtLocation drawer,1
+mit InstanceOf university,"university AtLocation town over 10,000","mit AtLocation town over 10,000",1
+mit InstanceOf university,university AtLocation city,mit AtLocation city,1
+asia InstanceOf continent,continent AtLocation seven,asia AtLocation seven,1
+asia InstanceOf continent,continent AtLocation global,asia AtLocation global,1
+asia InstanceOf continent,continent AtLocation world,asia AtLocation world,1
+asia InstanceOf continent,continent AtLocation earth crust,asia AtLocation earth crust,1
+asia InstanceOf continent,continent AtLocation sea,asia AtLocation sea,1
+queen InstanceOf rock band,rock band AtLocation concert,queen AtLocation concert,1
+friend InstanceOf sitcoms,sitcoms AtLocation television,friend AtLocation television,1
+friend InstanceOf sitcom,sitcom AtLocation television,friend AtLocation television,1
+friend InstanceOf sitcom,sitcom AtLocation tv,friend AtLocation tv,1
+titanic InstanceOf film,film AtLocation cabinet,titanic AtLocation cabinet,1
+titanic InstanceOf film,film AtLocation drawer,titanic AtLocation drawer,1
+titanic InstanceOf film,film AtLocation disneyland,titanic AtLocation disneyland,1
+titanic InstanceOf film,film AtLocation movies,titanic AtLocation movies,1
+titanic InstanceOf movie,movie AtLocation video store,titanic AtLocation video store,1
+titanic InstanceOf movie,movie AtLocation television,titanic AtLocation television,1
+titanic InstanceOf movie,movie AtLocation drive-in movie,titanic AtLocation drive-in movie,1
+titanic InstanceOf movie,movie AtLocation plane,titanic AtLocation plane,1
+titanic InstanceOf movie,movie AtLocation movie theatre,titanic AtLocation movie theatre,1
+titanic InstanceOf movie,movie AtLocation movies,titanic AtLocation movies,1
+titanic InstanceOf movie,movie AtLocation movie theater,titanic AtLocation movie theater,1
+titanic InstanceOf movie,movie AtLocation jellyfish,titanic AtLocation jellyfish,1
+titanic InstanceOf movie,movie AtLocation vcr,titanic AtLocation vcr,1
+titanic InstanceOf movie,movie AtLocation city,titanic AtLocation city,1
+titanic InstanceOf movie,movie AtLocation opus,titanic AtLocation opus,1
+s InstanceOf city,city AtLocation county,s AtLocation county,1
+s InstanceOf city,city AtLocation province,s AtLocation province,1
+s InstanceOf city,city AtLocation germany,s AtLocation germany,1
+s InstanceOf city,city AtLocation surface earth,s AtLocation surface earth,1
+s InstanceOf city,city AtLocation unite state,s AtLocation unite state,1
+s InstanceOf city,city AtLocation bus,s AtLocation bus,1
+s InstanceOf city,city AtLocation opus,s AtLocation opus,1
+s InstanceOf city,city AtLocation disarray,s AtLocation disarray,1
+s InstanceOf city,city AtLocation fast-food restaurant,s AtLocation fast-food restaurant,1
+s InstanceOf city,city AtLocation australia,s AtLocation australia,1
+s InstanceOf city,city AtLocation philippine,s AtLocation philippine,1
+s InstanceOf city,city AtLocation city,s AtLocation city,1
+s InstanceOf city,city AtLocation any large city,s AtLocation any large city,1
+s InstanceOf city,city AtLocation big city,s AtLocation big city,1
+s InstanceOf city,city AtLocation pet shop,s AtLocation pet shop,1
+s InstanceOf city,city AtLocation kitchen,s AtLocation kitchen,1
+s InstanceOf city,city AtLocation forest,s AtLocation forest,1
+s InstanceOf city,city AtLocation desk,s AtLocation desk,1
+s InstanceOf city,city AtLocation mall,s AtLocation mall,1
+s InstanceOf city,city AtLocation drawer,s AtLocation drawer,1
+s InstanceOf city,city AtLocation state province,s AtLocation state province,1
+s InstanceOf city,city AtLocation downtown,s AtLocation downtown,1
+s InstanceOf city,city AtLocation urban area,s AtLocation urban area,1
+gone wind InstanceOf novel,novel AtLocation bookstore,gone wind AtLocation bookstore,1
+gone wind InstanceOf novel,novel AtLocation library,gone wind AtLocation library,1
+gone wind InstanceOf novel,novel AtLocation shelf,gone wind AtLocation shelf,1
+soy sauce InstanceOf condiment,condiment AtLocation pantry,soy sauce AtLocation pantry,1
+soy sauce InstanceOf condiment,condiment AtLocation table,soy sauce AtLocation table,1
+soy sauce InstanceOf condiment,condiment AtLocation container,soy sauce AtLocation container,1
+soy sauce InstanceOf condiment,condiment AtLocation refrigerator,soy sauce AtLocation refrigerator,1
+soy sauce InstanceOf condiment,condiment AtLocation dinner,soy sauce AtLocation dinner,1
+marvin minsky InstanceOf scientist,scientist AtLocation laboratory,marvin minsky AtLocation laboratory,1
+marvin minsky InstanceOf scientist,scientist AtLocation chemistry lab,marvin minsky AtLocation chemistry lab,1
+marvin minsky InstanceOf scientist,scientist AtLocation space shuttle,marvin minsky AtLocation space shuttle,1
+marvin minsky InstanceOf scientist,scientist AtLocation oklahoma,marvin minsky AtLocation oklahoma,1
+marvin minsky InstanceOf scientist,scientist AtLocation mit medium lab,marvin minsky AtLocation mit medium lab,1
+dr pepper InstanceOf soft drink,soft drink AtLocation movie,dr pepper AtLocation movie,1
+dr pepper InstanceOf soft drink,soft drink AtLocation theatre,dr pepper AtLocation theatre,1
+north korea InstanceOf country,country AtLocation globe map,north korea AtLocation globe map,1
+north korea InstanceOf country,country AtLocation forest,north korea AtLocation forest,1
+north korea InstanceOf country,country AtLocation great outdoors,north korea AtLocation great outdoors,1
+north korea InstanceOf country,country AtLocation wa4,north korea AtLocation wa4,1
+north korea InstanceOf country,country AtLocation war,north korea AtLocation war,1
+north korea InstanceOf country,country AtLocation africa,north korea AtLocation africa,1
+north korea InstanceOf country,country AtLocation rural,north korea AtLocation rural,1
+north korea InstanceOf country,country AtLocation rural area,north korea AtLocation rural area,1
+north korea InstanceOf country,country AtLocation midwest,north korea AtLocation midwest,1
+final fantasy InstanceOf video game,video game AtLocation bar,final fantasy AtLocation bar,1
+final fantasy InstanceOf video game,video game AtLocation toy store,final fantasy AtLocation toy store,1
+final fantasy InstanceOf video game,video game AtLocation friend house,final fantasy AtLocation friend house,1
+final fantasy InstanceOf video game,video game AtLocation party,final fantasy AtLocation party,1
+final fantasy InstanceOf video game,video game AtLocation air,final fantasy AtLocation air,1
+eunha sim InstanceOf actress,actress AtLocation movie,eunha sim AtLocation movie,1
+pele InstanceOf soccer player,soccer player AtLocation soccer field,pele AtLocation soccer field,1
+pele InstanceOf soccer player,soccer player AtLocation soccer game,pele AtLocation soccer game,1
+clementine orange InstanceOf fruit,fruit AtLocation market,clementine orange AtLocation market,1
+clementine orange InstanceOf fruit,fruit AtLocation fruit grove,clementine orange AtLocation fruit grove,1
+clementine orange InstanceOf fruit,fruit AtLocation container,clementine orange AtLocation container,1
+clementine orange InstanceOf fruit,fruit AtLocation pantry,clementine orange AtLocation pantry,1
+clementine orange InstanceOf fruit,fruit AtLocation produce section,clementine orange AtLocation produce section,1
+clementine orange InstanceOf fruit,fruit AtLocation fruit cocktail,clementine orange AtLocation fruit cocktail,1
+clementine orange InstanceOf fruit,fruit AtLocation supermarket,clementine orange AtLocation supermarket,1
+clementine orange InstanceOf fruit,fruit AtLocation refridgerator,clementine orange AtLocation refridgerator,1
+clementine orange InstanceOf fruit,fruit AtLocation plate,clementine orange AtLocation plate,1
+clementine orange InstanceOf fruit,fruit AtLocation fridge,clementine orange AtLocation fridge,1
+clementine orange InstanceOf fruit,fruit AtLocation mouth,clementine orange AtLocation mouth,1
+clementine orange InstanceOf fruit,fruit AtLocation refriderator,clementine orange AtLocation refriderator,1
+clementine orange InstanceOf fruit,fruit AtLocation san francisco,clementine orange AtLocation san francisco,1
+clementine orange InstanceOf fruit,fruit AtLocation refrigerator,clementine orange AtLocation refrigerator,1
+clementine orange InstanceOf fruit,fruit AtLocation jar,clementine orange AtLocation jar,1
+clementine orange InstanceOf fruit,fruit AtLocation basket,clementine orange AtLocation basket,1
+clementine orange InstanceOf fruit,fruit AtLocation fruit bowl,clementine orange AtLocation fruit bowl,1
+clementine orange InstanceOf fruit,fruit AtLocation kitchen,clementine orange AtLocation kitchen,1
+clementine orange InstanceOf fruit,fruit AtLocation shop,clementine orange AtLocation shop,1
+clementine orange InstanceOf fruit,fruit AtLocation pizza,clementine orange AtLocation pizza,1
+clementine orange InstanceOf fruit,fruit AtLocation freezer,clementine orange AtLocation freezer,1
+clementine orange InstanceOf fruit,fruit AtLocation store,clementine orange AtLocation store,1
+clementine orange InstanceOf fruit,fruit AtLocation dinner,clementine orange AtLocation dinner,1
+clementine orange InstanceOf fruit,fruit AtLocation home,clementine orange AtLocation home,1
+clementine orange InstanceOf fruit,fruit AtLocation field,clementine orange AtLocation field,1
+clementine orange InstanceOf fruit,fruit AtLocation apartment,clementine orange AtLocation apartment,1
+clementine orange InstanceOf fruit,fruit AtLocation garden,clementine orange AtLocation garden,1
+clementine orange InstanceOf fruit,fruit AtLocation resturant,clementine orange AtLocation resturant,1
+clementine orange InstanceOf fruit,fruit AtLocation house,clementine orange AtLocation house,1
+clementine orange InstanceOf fruit,fruit AtLocation farmer market,clementine orange AtLocation farmer market,1
+clementine orange InstanceOf fruit,fruit AtLocation forest,clementine orange AtLocation forest,1
+clementine orange InstanceOf fruit,fruit AtLocation mall,clementine orange AtLocation mall,1
+clementine orange InstanceOf fruit,fruit AtLocation cupboard,clementine orange AtLocation cupboard,1
+clementine orange InstanceOf fruit,fruit AtLocation table,clementine orange AtLocation table,1
+clementine orange InstanceOf fruit,fruit AtLocation park,clementine orange AtLocation park,1
+clementine orange InstanceOf fruit,fruit AtLocation restaurant,clementine orange AtLocation restaurant,1
+clementine orange InstanceOf fruit,fruit AtLocation oven,clementine orange AtLocation oven,1
+clementine orange InstanceOf fruit,fruit AtLocation bowl,clementine orange AtLocation bowl,1
+clementine orange InstanceOf fruit,fruit AtLocation hang tree,clementine orange AtLocation hang tree,1
+clementine orange InstanceOf fruit,fruit AtLocation grocery store,clementine orange AtLocation grocery store,1
+clementine orange InstanceOf fruit,fruit AtLocation orchard,clementine orange AtLocation orchard,1
+hwang woosuk InstanceOf scientist,scientist AtLocation laboratory,hwang woosuk AtLocation laboratory,1
+hwang woosuk InstanceOf scientist,scientist AtLocation chemistry lab,hwang woosuk AtLocation chemistry lab,1
+hwang woosuk InstanceOf scientist,scientist AtLocation space shuttle,hwang woosuk AtLocation space shuttle,1
+hwang woosuk InstanceOf scientist,scientist AtLocation oklahoma,hwang woosuk AtLocation oklahoma,1
+hwang woosuk InstanceOf scientist,scientist AtLocation mit medium lab,hwang woosuk AtLocation mit medium lab,1
+hwang woosuk InstanceOf fraud,fraud AtLocation business deal,hwang woosuk AtLocation business deal,1
+ferrarri InstanceOf car,car AtLocation park garage,ferrarri AtLocation park garage,1
+ferrarri InstanceOf car,car AtLocation freeway,ferrarri AtLocation freeway,1
+ferrarri InstanceOf car,car AtLocation car show,ferrarri AtLocation car show,1
+ferrarri InstanceOf car,car AtLocation land,ferrarri AtLocation land,1
+ferrarri InstanceOf car,car AtLocation repair shop,ferrarri AtLocation repair shop,1
+ferrarri InstanceOf car,car AtLocation show,ferrarri AtLocation show,1
+ferrarri InstanceOf car,car AtLocation car dealership,ferrarri AtLocation car dealership,1
+ferrarri InstanceOf car,car AtLocation motel,ferrarri AtLocation motel,1
+ferrarri InstanceOf car,car AtLocation car park,ferrarri AtLocation car park,1
+ferrarri InstanceOf car,car AtLocation highway,ferrarri AtLocation highway,1
+ferrarri InstanceOf car,car AtLocation race track,ferrarri AtLocation race track,1
+ferrarri InstanceOf car,car AtLocation park zone,ferrarri AtLocation park zone,1
+ferrarri InstanceOf car,car AtLocation car supermarket,ferrarri AtLocation car supermarket,1
+ferrarri InstanceOf car,car AtLocation scrapyard,ferrarri AtLocation scrapyard,1
+ferrarri InstanceOf car,car AtLocation packinglot,ferrarri AtLocation packinglot,1
+ferrarri InstanceOf car,car AtLocation town,ferrarri AtLocation town,1
+ferrarri InstanceOf car,car AtLocation need repair,ferrarri AtLocation need repair,1
+ferrarri InstanceOf car,car AtLocation street corner,ferrarri AtLocation street corner,1
+ferrarri InstanceOf car,car AtLocation parade,ferrarri AtLocation parade,1
+ferrarri InstanceOf car,car AtLocation bridge,ferrarri AtLocation bridge,1
+ferrarri InstanceOf car,car AtLocation corner two street,ferrarri AtLocation corner two street,1
+ferrarri InstanceOf car,car AtLocation junkyard,ferrarri AtLocation junkyard,1
+ferrarri InstanceOf car,car AtLocation gas station,ferrarri AtLocation gas station,1
+ferrarri InstanceOf car,car AtLocation junk yard,ferrarri AtLocation junk yard,1
+ferrarri InstanceOf car,car AtLocation bottom lake,ferrarri AtLocation bottom lake,1
+ferrarri InstanceOf car,car AtLocation city,ferrarri AtLocation city,1
+ferrarri InstanceOf car,car AtLocation neighbor house,ferrarri AtLocation neighbor house,1
+ferrarri InstanceOf car,car AtLocation scrap heap,ferrarri AtLocation scrap heap,1
+ferrarri InstanceOf car,car AtLocation traffic,ferrarri AtLocation traffic,1
+ferrarri InstanceOf car,car AtLocation smelter,ferrarri AtLocation smelter,1
+ferrarri InstanceOf car,car AtLocation interstate,ferrarri AtLocation interstate,1
+ferrarri InstanceOf car,car AtLocation rest area,ferrarri AtLocation rest area,1
+ferrarri InstanceOf car,car AtLocation any large city,ferrarri AtLocation any large city,1
+ferrarri InstanceOf car,car AtLocation new york,ferrarri AtLocation new york,1
+ferrarri InstanceOf car,car AtLocation london,ferrarri AtLocation london,1
+ferrarri InstanceOf car,car AtLocation earth,ferrarri AtLocation earth,1
+ferrarri InstanceOf car,car AtLocation outer space,ferrarri AtLocation outer space,1
+ferrarri InstanceOf car,car AtLocation outerspace,ferrarri AtLocation outerspace,1
+ferrarri InstanceOf car,car AtLocation train station,ferrarri AtLocation train station,1
+ferrarri InstanceOf car,car AtLocation subway,ferrarri AtLocation subway,1
+ferrarri InstanceOf car,car AtLocation hardware store,ferrarri AtLocation hardware store,1
+ferrarri InstanceOf car,car AtLocation winery,ferrarri AtLocation winery,1
+ferrarri InstanceOf car,car AtLocation park,ferrarri AtLocation park,1
+ferrarri InstanceOf car,car AtLocation ground,ferrarri AtLocation ground,1
+ferrarri InstanceOf car,car AtLocation kitchen,ferrarri AtLocation kitchen,1
+ferrarri InstanceOf car,car AtLocation airport,ferrarri AtLocation airport,1
+ferrarri InstanceOf car,car AtLocation competitive activity,ferrarri AtLocation competitive activity,1
+ferrarri InstanceOf car,car AtLocation country,ferrarri AtLocation country,1
+ferrarri InstanceOf car,car AtLocation build,ferrarri AtLocation build,1
+ferrarri InstanceOf car,car AtLocation countryside,ferrarri AtLocation countryside,1
+ferrarri InstanceOf car,car AtLocation store,ferrarri AtLocation store,1
+ferrarri InstanceOf car,car AtLocation iraq,ferrarri AtLocation iraq,1
+ferrarri InstanceOf car,car AtLocation sport event,ferrarri AtLocation sport event,1
+ferrarri InstanceOf car,car AtLocation space,ferrarri AtLocation space,1
+ferrarri InstanceOf car,car AtLocation shower,ferrarri AtLocation shower,1
+ferrarri InstanceOf car,car AtLocation cupboard,ferrarri AtLocation cupboard,1
+ferrarri InstanceOf car,car AtLocation pocket,ferrarri AtLocation pocket,1
+ferrarri InstanceOf car,car AtLocation party,ferrarri AtLocation party,1
+ferrarri InstanceOf car,car AtLocation stadium,ferrarri AtLocation stadium,1
+ferrarri InstanceOf car,car AtLocation dinner,ferrarri AtLocation dinner,1
+ferrarri InstanceOf car,car AtLocation desk,ferrarri AtLocation desk,1
+ferrarri InstanceOf car,car AtLocation house,ferrarri AtLocation house,1
+ferrarri InstanceOf car,car AtLocation cabinet,ferrarri AtLocation cabinet,1
+ferrarri InstanceOf car,car AtLocation outside,ferrarri AtLocation outside,1
+ferrarri InstanceOf car,car AtLocation museum,ferrarri AtLocation museum,1
+ferrarri InstanceOf car,car AtLocation street,ferrarri AtLocation street,1
+ferrarri InstanceOf car,car AtLocation new jersey,ferrarri AtLocation new jersey,1
+ferrarri InstanceOf car,car AtLocation drive-in movie,ferrarri AtLocation drive-in movie,1
+ferrarri InstanceOf car,car AtLocation street city,ferrarri AtLocation street city,1
+ferrarri InstanceOf car,car AtLocation eiffel tower,ferrarri AtLocation eiffel tower,1
+ferrarri InstanceOf car,car AtLocation phoenix,ferrarri AtLocation phoenix,1
+asimo InstanceOf robot,robot AtLocation science fiction movie,asimo AtLocation science fiction movie,1
+asimo InstanceOf robot,robot AtLocation space shuttle,asimo AtLocation space shuttle,1
+asimo InstanceOf robot,robot AtLocation movie star war,asimo AtLocation movie star war,1
+asimo InstanceOf robot,robot AtLocation science fiction,asimo AtLocation science fiction,1
+asimo InstanceOf robot,robot AtLocation factory,asimo AtLocation factory,1
+asimo InstanceOf robot,robot AtLocation tv show,asimo AtLocation tv show,1
+asimo InstanceOf robot,robot AtLocation laboratory,asimo AtLocation laboratory,1
+asimo InstanceOf robot,robot AtLocation computer game,asimo AtLocation computer game,1
+asimo InstanceOf robot,robot AtLocation manufacture plant,asimo AtLocation manufacture plant,1
+asimo InstanceOf robot,robot AtLocation mar,asimo AtLocation mar,1
+asimo InstanceOf robot,robot AtLocation city,asimo AtLocation city,1
+asimo InstanceOf robot,robot AtLocation town,asimo AtLocation town,1
+asimo InstanceOf robot,robot AtLocation garage,asimo AtLocation garage,1
+bump chicken InstanceOf rock band,rock band AtLocation concert,bump chicken AtLocation concert,1
+walkie talkie InstanceOf toy,toy AtLocation child bedroom,walkie talkie AtLocation child bedroom,1
+walkie talkie InstanceOf toy,toy AtLocation shop,walkie talkie AtLocation shop,1
+walkie talkie InstanceOf toy,toy AtLocation bed,walkie talkie AtLocation bed,1
+walkie talkie InstanceOf toy,toy AtLocation basement,walkie talkie AtLocation basement,1
+walkie talkie InstanceOf toy,toy AtLocation floor,walkie talkie AtLocation floor,1
+walkie talkie InstanceOf toy,toy AtLocation closet,walkie talkie AtLocation closet,1
+walkie talkie InstanceOf toy,toy AtLocation corner,walkie talkie AtLocation corner,1
+walkie talkie InstanceOf toy,toy AtLocation back sofa,walkie talkie AtLocation back sofa,1
+walkie talkie InstanceOf toy,toy AtLocation toy box,walkie talkie AtLocation toy box,1
+walkie talkie InstanceOf toy,toy AtLocation toy chest,walkie talkie AtLocation toy chest,1
+walkie talkie InstanceOf toy,toy AtLocation store,walkie talkie AtLocation store,1
+walkie talkie InstanceOf toy,toy AtLocation party,walkie talkie AtLocation party,1
+walkie talkie InstanceOf toy,toy AtLocation table,walkie talkie AtLocation table,1
+walkie talkie InstanceOf toy,toy AtLocation drawer,walkie talkie AtLocation drawer,1
+walkie talkie InstanceOf toy,toy AtLocation shelf,walkie talkie AtLocation shelf,1
+walkie talkie InstanceOf toy,toy AtLocation kindergarden,walkie talkie AtLocation kindergarden,1
+walkie talkie InstanceOf toy,toy AtLocation toydroor,walkie talkie AtLocation toydroor,1
+walkie talkie InstanceOf toy,toy AtLocation rug,walkie talkie AtLocation rug,1
+walkie talkie InstanceOf toy,toy AtLocation children's room,walkie talkie AtLocation children's room,1
+walkie talkie InstanceOf toy,toy AtLocation child room,walkie talkie AtLocation child room,1
+walkie talkie InstanceOf toy,toy AtLocation toy store,walkie talkie AtLocation toy store,1
+walkie talkie InstanceOf toy,toy AtLocation ball doll,walkie talkie AtLocation ball doll,1
+walkie talkie InstanceOf toy,toy AtLocation chest,walkie talkie AtLocation chest,1
+walkie talkie InstanceOf toy,toy AtLocation christmas stocking,walkie talkie AtLocation christmas stocking,1
+walkie talkie InstanceOf toy,toy AtLocation kid bedroom,walkie talkie AtLocation kid bedroom,1
+walkie talkie InstanceOf toy,toy AtLocation kid box,walkie talkie AtLocation kid box,1
+walkie talkie InstanceOf toy,toy AtLocation kid store,walkie talkie AtLocation kid store,1
+walkie talkie InstanceOf toy,toy AtLocation nursery,walkie talkie AtLocation nursery,1
+walkie talkie InstanceOf toy,toy AtLocation play room,walkie talkie AtLocation play room,1
+srilanka InstanceOf war,war AtLocation far away,srilanka AtLocation far away,1
+srilanka InstanceOf war,war AtLocation street,srilanka AtLocation street,1
+srilanka InstanceOf war,war AtLocation battle,srilanka AtLocation battle,1
+srilanka InstanceOf war,war AtLocation country,srilanka AtLocation country,1
+srilanka InstanceOf war,war AtLocation city,srilanka AtLocation city,1
+srilanka InstanceOf war,war AtLocation town,srilanka AtLocation town,1
+fuji InstanceOf apple,apple AtLocation market,fuji AtLocation market,1
+fuji InstanceOf apple,apple AtLocation apple orchard,fuji AtLocation apple orchard,1
+fuji InstanceOf apple,apple AtLocation apple pie,fuji AtLocation apple pie,1
+fuji InstanceOf apple,apple AtLocation table,fuji AtLocation table,1
+fuji InstanceOf apple,apple AtLocation apple tree,fuji AtLocation apple tree,1
+fuji InstanceOf apple,apple AtLocation grocery store,fuji AtLocation grocery store,1
+fuji InstanceOf apple,apple AtLocation fridge,fuji AtLocation fridge,1
+fuji InstanceOf apple,apple AtLocation produce section supermarket,fuji AtLocation produce section supermarket,1
+fuji InstanceOf apple,apple AtLocation toffee apple,fuji AtLocation toffee apple,1
+fuji InstanceOf apple,apple AtLocation horse mouth,fuji AtLocation horse mouth,1
+fuji InstanceOf apple,apple AtLocation refrigerator,fuji AtLocation refrigerator,1
+fuji InstanceOf apple,apple AtLocation greengrocer,fuji AtLocation greengrocer,1
+fuji InstanceOf apple,apple AtLocation house,fuji AtLocation house,1
+fuji InstanceOf apple,apple AtLocation dinner,fuji AtLocation dinner,1
+fuji InstanceOf apple,apple AtLocation apartment,fuji AtLocation apartment,1
+fuji InstanceOf apple,apple AtLocation home,fuji AtLocation home,1
+fuji InstanceOf apple,apple AtLocation forest,fuji AtLocation forest,1
+fuji InstanceOf apple,apple AtLocation resturant,fuji AtLocation resturant,1
+fuji InstanceOf apple,apple AtLocation kitchen,fuji AtLocation kitchen,1
+fuji InstanceOf apple,apple AtLocation fair,fuji AtLocation fair,1
+fuji InstanceOf apple,apple AtLocation party,fuji AtLocation party,1
+fuji InstanceOf apple,apple AtLocation earth surface,fuji AtLocation earth surface,1
+fuji InstanceOf apple,apple AtLocation wed,fuji AtLocation wed,1
+fuji InstanceOf apple,apple AtLocation concert,fuji AtLocation concert,1
+fuji InstanceOf apple,apple AtLocation mall,fuji AtLocation mall,1
+fuji InstanceOf apple,apple AtLocation subway,fuji AtLocation subway,1
+fuji InstanceOf apple,apple AtLocation boat,fuji AtLocation boat,1
+fuji InstanceOf apple,apple AtLocation street,fuji AtLocation street,1
+fuji InstanceOf apple,apple AtLocation zoo,fuji AtLocation zoo,1
+fuji InstanceOf apple,apple AtLocation garage,fuji AtLocation garage,1
+fuji InstanceOf apple,apple AtLocation field,fuji AtLocation field,1
+fuji InstanceOf apple,apple AtLocation cupboard,fuji AtLocation cupboard,1
+fuji InstanceOf apple,apple AtLocation winery,fuji AtLocation winery,1
+fuji InstanceOf apple,apple AtLocation bed,fuji AtLocation bed,1
+fuji InstanceOf apple,apple AtLocation store,fuji AtLocation store,1
+fuji InstanceOf apple,apple AtLocation restaurant,fuji AtLocation restaurant,1
+fuji InstanceOf apple,apple AtLocation plate,fuji AtLocation plate,1
+fuji InstanceOf apple,apple AtLocation freezer,fuji AtLocation freezer,1
+fuji InstanceOf apple,apple AtLocation jar,fuji AtLocation jar,1
+fuji InstanceOf apple,apple AtLocation cake,fuji AtLocation cake,1
+fuji InstanceOf apple,apple AtLocation park,fuji AtLocation park,1
+fuji InstanceOf apple,apple AtLocation supermarket,fuji AtLocation supermarket,1
+fuji InstanceOf apple,apple AtLocation pocket,fuji AtLocation pocket,1
+fuji InstanceOf apple,apple AtLocation garden,fuji AtLocation garden,1
+fuji InstanceOf apple,apple AtLocation drawer,fuji AtLocation drawer,1
+fuji InstanceOf apple,apple AtLocation closet,fuji AtLocation closet,1
+fuji InstanceOf apple,apple AtLocation suitcase,fuji AtLocation suitcase,1
+fuji InstanceOf apple,apple AtLocation casino,fuji AtLocation casino,1
+fuji InstanceOf apple,apple AtLocation ground,fuji AtLocation ground,1
+fuji InstanceOf apple,apple AtLocation desk,fuji AtLocation desk,1
+fuji InstanceOf apple,apple AtLocation build,fuji AtLocation build,1
+fuji InstanceOf apple,apple AtLocation under tree,fuji AtLocation under tree,1
+fuji InstanceOf apple,apple AtLocation hang tree,fuji AtLocation hang tree,1
+fuji InstanceOf apple,apple AtLocation pizza,fuji AtLocation pizza,1
+fuji InstanceOf apple,apple AtLocation ipod,fuji AtLocation ipod,1
+fuji InstanceOf apple,apple AtLocation tree orchard,fuji AtLocation tree orchard,1
+fuji InstanceOf apple,apple AtLocation container,fuji AtLocation container,1
+fuji InstanceOf apple,apple AtLocation refridgerator,fuji AtLocation refridgerator,1
+fuji InstanceOf apple,apple AtLocation farmer market,fuji AtLocation farmer market,1
+fuji InstanceOf apple,apple AtLocation shop,fuji AtLocation shop,1
+ichiban shibari InstanceOf beer,beer AtLocation in a can,ichiban shibari AtLocation in a can,1
+ichiban shibari InstanceOf beer,beer AtLocation bar,ichiban shibari AtLocation bar,1
+ichiban shibari InstanceOf beer,beer AtLocation porch,ichiban shibari AtLocation porch,1
+ichiban shibari InstanceOf beer,beer AtLocation sport event,ichiban shibari AtLocation sport event,1
+ichiban shibari InstanceOf beer,beer AtLocation keg,ichiban shibari AtLocation keg,1
+ichiban shibari InstanceOf beer,beer AtLocation home,ichiban shibari AtLocation home,1
+ichiban shibari InstanceOf beer,beer AtLocation brewery,ichiban shibari AtLocation brewery,1
+ichiban shibari InstanceOf beer,beer AtLocation hockey game,ichiban shibari AtLocation hockey game,1
+ichiban shibari InstanceOf beer,beer AtLocation grocery store,ichiban shibari AtLocation grocery store,1
+ichiban shibari InstanceOf beer,beer AtLocation plane,ichiban shibari AtLocation plane,1
+ichiban shibari InstanceOf beer,beer AtLocation friend house,ichiban shibari AtLocation friend house,1
+ichiban shibari InstanceOf beer,beer AtLocation boat,ichiban shibari AtLocation boat,1
+ichiban shibari InstanceOf beer,beer AtLocation neighbor house,ichiban shibari AtLocation neighbor house,1
+ichiban shibari InstanceOf beer,beer AtLocation fridge,ichiban shibari AtLocation fridge,1
+ichiban shibari InstanceOf beer,beer AtLocation refrigerator,ichiban shibari AtLocation refrigerator,1
+ichiban shibari InstanceOf beer,beer AtLocation bowl alley,ichiban shibari AtLocation bowl alley,1
+ichiban shibari InstanceOf beer,beer AtLocation store,ichiban shibari AtLocation store,1
+ichiban shibari InstanceOf beer,beer AtLocation concert,ichiban shibari AtLocation concert,1
+ichiban shibari InstanceOf beer,beer AtLocation bottle,ichiban shibari AtLocation bottle,1
+ichiban shibari InstanceOf beer,beer AtLocation party,ichiban shibari AtLocation party,1
+ichiban shibari InstanceOf beer,beer AtLocation dinner,ichiban shibari AtLocation dinner,1
+ichiban shibari InstanceOf beer,beer AtLocation casino,ichiban shibari AtLocation casino,1
+ichiban shibari InstanceOf beer,beer AtLocation soccer game,ichiban shibari AtLocation soccer game,1
+ichiban shibari InstanceOf beer,beer AtLocation beach,ichiban shibari AtLocation beach,1
+ichiban shibari InstanceOf beer,beer AtLocation shelf,ichiban shibari AtLocation shelf,1
+ichiban shibari InstanceOf beer,beer AtLocation door,ichiban shibari AtLocation door,1
+ichiban shibari InstanceOf beer,beer AtLocation table,ichiban shibari AtLocation table,1
+ichiban shibari InstanceOf beer,beer AtLocation market,ichiban shibari AtLocation market,1
+ichiban shibari InstanceOf beer,beer AtLocation subway,ichiban shibari AtLocation subway,1
+ichiban shibari InstanceOf beer,beer AtLocation apartment,ichiban shibari AtLocation apartment,1
+ichiban shibari InstanceOf beer,beer AtLocation build,ichiban shibari AtLocation build,1
+ichiban shibari InstanceOf beer,beer AtLocation city,ichiban shibari AtLocation city,1
+ichiban shibari InstanceOf beer,beer AtLocation wed,ichiban shibari AtLocation wed,1
+ichiban shibari InstanceOf beer,beer AtLocation airport,ichiban shibari AtLocation airport,1
+ichiban shibari InstanceOf beer,beer AtLocation swim pool,ichiban shibari AtLocation swim pool,1
+ichiban shibari InstanceOf beer,beer AtLocation park,ichiban shibari AtLocation park,1
+ichiban shibari InstanceOf beer,beer AtLocation earth,ichiban shibari AtLocation earth,1
+ichiban shibari InstanceOf beer,beer AtLocation outer space,ichiban shibari AtLocation outer space,1
+ichiban shibari InstanceOf beer,beer AtLocation mall,ichiban shibari AtLocation mall,1
+ichiban shibari InstanceOf beer,beer AtLocation outerspace,ichiban shibari AtLocation outerspace,1
+ichiban shibari InstanceOf beer,beer AtLocation cupboard,ichiban shibari AtLocation cupboard,1
+ichiban shibari InstanceOf beer,beer AtLocation bathroom,ichiban shibari AtLocation bathroom,1
+ichiban shibari InstanceOf beer,beer AtLocation pantry,ichiban shibari AtLocation pantry,1
+ichiban shibari InstanceOf beer,beer AtLocation earth surface,ichiban shibari AtLocation earth surface,1
+ichiban shibari InstanceOf beer,beer AtLocation space shuttle,ichiban shibari AtLocation space shuttle,1
+ichiban shibari InstanceOf beer,beer AtLocation venu,ichiban shibari AtLocation venu,1
+ichiban shibari InstanceOf beer,beer AtLocation office,ichiban shibari AtLocation office,1
+ichiban shibari InstanceOf beer,beer AtLocation library,ichiban shibari AtLocation library,1
+ichiban shibari InstanceOf beer,beer AtLocation winery,ichiban shibari AtLocation winery,1
+ichiban shibari InstanceOf beer,beer AtLocation jail,ichiban shibari AtLocation jail,1
+ichiban shibari InstanceOf beer,beer AtLocation church,ichiban shibari AtLocation church,1
+ichiban shibari InstanceOf beer,beer AtLocation house,ichiban shibari AtLocation house,1
+ichiban shibari InstanceOf beer,beer AtLocation school,ichiban shibari AtLocation school,1
+ichiban shibari InstanceOf beer,beer AtLocation bed,ichiban shibari AtLocation bed,1
+ichiban shibari InstanceOf beer,beer AtLocation supermarket,ichiban shibari AtLocation supermarket,1
+ichiban shibari InstanceOf beer,beer AtLocation cabinet,ichiban shibari AtLocation cabinet,1
+ichiban shibari InstanceOf beer,beer AtLocation kitchen,ichiban shibari AtLocation kitchen,1
+ichiban shibari InstanceOf beer,beer AtLocation jar,ichiban shibari AtLocation jar,1
+ichiban shibari InstanceOf beer,beer AtLocation refrigerator freezer,ichiban shibari AtLocation refrigerator freezer,1
+ichiban shibari InstanceOf beer,beer AtLocation cup,ichiban shibari AtLocation cup,1
+ichiban shibari InstanceOf beer,beer AtLocation lincoln memorial,ichiban shibari AtLocation lincoln memorial,1
+ichiban shibari InstanceOf beer,beer AtLocation car,ichiban shibari AtLocation car,1
+ichiban shibari InstanceOf beer,beer AtLocation server room,ichiban shibari AtLocation server room,1
+ichiban shibari InstanceOf beer,beer AtLocation exit,ichiban shibari AtLocation exit,1
+ichiban shibari InstanceOf beer,beer AtLocation bake pan,ichiban shibari AtLocation bake pan,1
+ichiban shibari InstanceOf beer,beer AtLocation atop refrigerator,ichiban shibari AtLocation atop refrigerator,1
+ichiban shibari InstanceOf beer,beer AtLocation liquor shop,ichiban shibari AtLocation liquor shop,1
+ichiban shibari InstanceOf beer,beer AtLocation bavarium,ichiban shibari AtLocation bavarium,1
+ichiban shibari InstanceOf beer,beer AtLocation fraternity house,ichiban shibari AtLocation fraternity house,1
+ichiban shibari InstanceOf beer,beer AtLocation restaurant,ichiban shibari AtLocation restaurant,1
+ichiban shibari InstanceOf beer,beer AtLocation resturant,ichiban shibari AtLocation resturant,1
+barley tea InstanceOf tea,tea AtLocation cupboard,barley tea AtLocation cupboard,1
+barley tea InstanceOf tea,tea AtLocation internet cafe,barley tea AtLocation internet cafe,1
+barley tea InstanceOf tea,tea AtLocation refrigerator,barley tea AtLocation refrigerator,1
+barley tea InstanceOf tea,tea AtLocation tea cup,barley tea AtLocation tea cup,1
+barley tea InstanceOf tea,tea AtLocation teapot,barley tea AtLocation teapot,1
+barley tea InstanceOf tea,tea AtLocation cup,barley tea AtLocation cup,1
+barley tea InstanceOf tea,tea AtLocation grocery store,barley tea AtLocation grocery store,1
+barley tea InstanceOf tea,tea AtLocation kitchen,barley tea AtLocation kitchen,1
+barley tea InstanceOf tea,tea AtLocation pantry,barley tea AtLocation pantry,1
+barley tea InstanceOf tea,tea AtLocation cabinet,barley tea AtLocation cabinet,1
+barley tea InstanceOf tea,tea AtLocation table,barley tea AtLocation table,1
+barley tea InstanceOf tea,tea AtLocation coffee shop,barley tea AtLocation coffee shop,1
+kyushi university InstanceOf university,university AtLocation university student,kyushi university AtLocation university student,1
+kyushi university InstanceOf university,university AtLocation chemistry lab,kyushi university AtLocation chemistry lab,1
+kyushi university InstanceOf university,university AtLocation florida,kyushi university AtLocation florida,1
+kyushi university InstanceOf university,university AtLocation drawer,kyushi university AtLocation drawer,1
+kyushi university InstanceOf university,"university AtLocation town over 10,000","kyushi university AtLocation town over 10,000",1
+kyushi university InstanceOf university,university AtLocation city,kyushi university AtLocation city,1
+ufscar InstanceOf university,university AtLocation university student,ufscar AtLocation university student,1
+ufscar InstanceOf university,university AtLocation chemistry lab,ufscar AtLocation chemistry lab,1
+ufscar InstanceOf university,university AtLocation florida,ufscar AtLocation florida,1
+ufscar InstanceOf university,university AtLocation drawer,ufscar AtLocation drawer,1
+ufscar InstanceOf university,"university AtLocation town over 10,000","ufscar AtLocation town over 10,000",1
+ufscar InstanceOf university,university AtLocation city,ufscar AtLocation city,1
+david byrne InstanceOf singer,singer AtLocation show,david byrne AtLocation show,1
+david byrne InstanceOf singer,singer AtLocation concert,david byrne AtLocation concert,1
+david byrne InstanceOf singer,singer AtLocation theatre,david byrne AtLocation theatre,1
+david byrne InstanceOf singer,singer AtLocation opus,david byrne AtLocation opus,1

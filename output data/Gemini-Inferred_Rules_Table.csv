@@ -1,0 +1,6 @@
+Rule Title,Rule,Justification,Example
+Location Chain,"If A AtLocation B and B AtLocation C, then A AtLocation C",Transitivity of location enables indirect spatial inference.,"Book AtLocation Shelf, Shelf AtLocation Library → Book AtLocation Library"
+Purpose Propagation (with risk),"If A UsedFor B and B CapableOf C, then A CapableOf C (or Causes C)",Indirect capability based on purpose linkage; caution advised due to weak links.,"Oven UsedFor Baking, Baking CapableOf Making Cake → Oven CapableOf/ Causes Making Cake"
+HasA Inheritance,"If A HasA B and B PartOf C, then A HasA C",Inheritance of part-of hierarchy through ownership.,"Car HasA Engine, Engine PartOf Vehicle → Car HasA Vehicle"
+Location Implication for Belonging (Weak),"If A AtLocation B and C HasA B, then A PartOf C",Infers belonging through shared location; context-sensitive.,"Picture AtLocation Wall, Room HasA Wall → Picture PartOf Room"
+Purpose to Property (Indirect),"If A UsedFor B and B HasProperty C, then A ResultsIn C",Captures derived property from purpose association.,"Knife UsedFor Cutting, Cutting HasProperty Sharpness → Knife ResultsIn Sharpness"

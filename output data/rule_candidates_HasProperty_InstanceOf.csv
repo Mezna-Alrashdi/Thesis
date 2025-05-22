@@ -1,0 +1,31 @@
+premise_1,premise_2,inferred,support_count
+mother HasProperty earth,earth InstanceOf planet solar system,mother InstanceOf planet solar system,1
+family HasProperty friend,friend InstanceOf sitcoms,family InstanceOf sitcoms,1
+family HasProperty friend,friend InstanceOf sitcom,family InstanceOf sitcom,1
+mountain HasProperty fuji,fuji InstanceOf apple,mountain InstanceOf apple,1
+country HasProperty earth,earth InstanceOf planet solar system,country InstanceOf planet solar system,1
+animal HasProperty lion,lion InstanceOf atrocious animal,animal InstanceOf atrocious animal,1
+gravity HasProperty earth,earth InstanceOf planet solar system,gravity InstanceOf planet solar system,1
+need HasProperty friend,friend InstanceOf sitcoms,need InstanceOf sitcoms,1
+need HasProperty friend,friend InstanceOf sitcom,need InstanceOf sitcom,1
+rule HasProperty queen,queen InstanceOf rock band,rule InstanceOf rock band,1
+floor HasProperty earth,earth InstanceOf planet solar system,floor InstanceOf planet solar system,1
+company HasProperty friend,friend InstanceOf sitcoms,company InstanceOf sitcoms,1
+company HasProperty friend,friend InstanceOf sitcom,company InstanceOf sitcom,1
+salt HasProperty earth,earth InstanceOf planet solar system,salt InstanceOf planet solar system,1
+squirrel HasProperty lion,lion InstanceOf atrocious animal,squirrel InstanceOf atrocious animal,1
+shit HasProperty banana,banana InstanceOf fruit,shit InstanceOf fruit,1
+bed HasProperty queen,queen InstanceOf rock band,bed InstanceOf rock band,1
+shake HasProperty strawberry,strawberry InstanceOf fruit,shake InstanceOf fruit,1
+rubber HasProperty brazil,brazil InstanceOf country,rubber InstanceOf country,1
+walnut HasProperty brazil,brazil InstanceOf country,walnut InstanceOf country,1
+power HasProperty hydroelectric,hydroelectric InstanceOf power generation,power InstanceOf power generation,1
+tin HasProperty lion,lion InstanceOf atrocious animal,tin InstanceOf atrocious animal,1
+silk HasProperty asia,asia InstanceOf continent,silk InstanceOf continent,1
+friendship HasProperty friend,friend InstanceOf sitcoms,friendship InstanceOf sitcoms,1
+friendship HasProperty friend,friend InstanceOf sitcom,friendship InstanceOf sitcom,1
+taste HasProperty earth,earth InstanceOf planet solar system,taste InstanceOf planet solar system,1
+burial HasProperty earth,earth InstanceOf planet solar system,burial InstanceOf planet solar system,1
+quake HasProperty earth,earth InstanceOf planet solar system,quake InstanceOf planet solar system,1
+main HasProperty lion,lion InstanceOf atrocious animal,main InstanceOf atrocious animal,1
+dynasty HasProperty lineage,lineage InstanceOf online game,dynasty InstanceOf online game,1

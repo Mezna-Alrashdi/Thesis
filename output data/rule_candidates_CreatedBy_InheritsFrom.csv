@@ -1,0 +1,103 @@
+premise_1,premise_2,inferred,support_count
+it CreatedBy human,human InheritsFrom master control,it InheritsFrom master control,1
+it CreatedBy god,god InheritsFrom pastor,it InheritsFrom pastor,1
+movie CreatedBy director,director InheritsFrom fisherman,movie InheritsFrom fisherman,1
+movie CreatedBy director,director InheritsFrom mozart,movie InheritsFrom mozart,1
+cat CreatedBy god,god InheritsFrom pastor,cat InheritsFrom pastor,1
+robot CreatedBy human,human InheritsFrom master control,robot InheritsFrom master control,1
+mistake CreatedBy person,person InheritsFrom steak,mistake InheritsFrom steak,1
+mistake CreatedBy person,person InheritsFrom apple,mistake InheritsFrom apple,1
+mistake CreatedBy person,person InheritsFrom doll,mistake InheritsFrom doll,1
+mistake CreatedBy person,person InheritsFrom master control,mistake InheritsFrom master control,1
+mistake CreatedBy person,person InheritsFrom food store,mistake InheritsFrom food store,1
+everything CreatedBy god,god InheritsFrom pastor,everything InheritsFrom pastor,1
+television CreatedBy person,person InheritsFrom steak,television InheritsFrom steak,1
+television CreatedBy person,person InheritsFrom apple,television InheritsFrom apple,1
+television CreatedBy person,person InheritsFrom doll,television InheritsFrom doll,1
+television CreatedBy person,person InheritsFrom master control,television InheritsFrom master control,1
+television CreatedBy person,person InheritsFrom food store,television InheritsFrom food store,1
+sentence CreatedBy person,person InheritsFrom steak,sentence InheritsFrom steak,1
+sentence CreatedBy person,person InheritsFrom apple,sentence InheritsFrom apple,1
+sentence CreatedBy person,person InheritsFrom doll,sentence InheritsFrom doll,1
+sentence CreatedBy person,person InheritsFrom master control,sentence InheritsFrom master control,1
+sentence CreatedBy person,person InheritsFrom food store,sentence InheritsFrom food store,1
+universe CreatedBy god,god InheritsFrom pastor,universe InheritsFrom pastor,1
+earth CreatedBy god,god InheritsFrom pastor,earth InheritsFrom pastor,1
+idea CreatedBy person,person InheritsFrom steak,idea InheritsFrom steak,1
+idea CreatedBy person,person InheritsFrom apple,idea InheritsFrom apple,1
+idea CreatedBy person,person InheritsFrom doll,idea InheritsFrom doll,1
+idea CreatedBy person,person InheritsFrom master control,idea InheritsFrom master control,1
+idea CreatedBy person,person InheritsFrom food store,idea InheritsFrom food store,1
+government CreatedBy person,person InheritsFrom steak,government InheritsFrom steak,1
+government CreatedBy person,person InheritsFrom apple,government InheritsFrom apple,1
+government CreatedBy person,person InheritsFrom doll,government InheritsFrom doll,1
+government CreatedBy person,person InheritsFrom master control,government InheritsFrom master control,1
+government CreatedBy person,person InheritsFrom food store,government InheritsFrom food store,1
+film CreatedBy person,person InheritsFrom steak,film InheritsFrom steak,1
+film CreatedBy person,person InheritsFrom apple,film InheritsFrom apple,1
+film CreatedBy person,person InheritsFrom doll,film InheritsFrom doll,1
+film CreatedBy person,person InheritsFrom master control,film InheritsFrom master control,1
+film CreatedBy person,person InheritsFrom food store,film InheritsFrom food store,1
+film CreatedBy director,director InheritsFrom fisherman,film InheritsFrom fisherman,1
+film CreatedBy director,director InheritsFrom mozart,film InheritsFrom mozart,1
+food CreatedBy person,person InheritsFrom steak,food InheritsFrom steak,1
+food CreatedBy person,person InheritsFrom apple,food InheritsFrom apple,1
+food CreatedBy person,person InheritsFrom doll,food InheritsFrom doll,1
+food CreatedBy person,person InheritsFrom master control,food InheritsFrom master control,1
+food CreatedBy person,person InheritsFrom food store,food InheritsFrom food store,1
+sweat CreatedBy person,person InheritsFrom steak,sweat InheritsFrom steak,1
+sweat CreatedBy person,person InheritsFrom apple,sweat InheritsFrom apple,1
+sweat CreatedBy person,person InheritsFrom doll,sweat InheritsFrom doll,1
+sweat CreatedBy person,person InheritsFrom master control,sweat InheritsFrom master control,1
+sweat CreatedBy person,person InheritsFrom food store,sweat InheritsFrom food store,1
+world CreatedBy god,god InheritsFrom pastor,world InheritsFrom pastor,1
+machine CreatedBy person,person InheritsFrom steak,machine InheritsFrom steak,1
+machine CreatedBy person,person InheritsFrom apple,machine InheritsFrom apple,1
+machine CreatedBy person,person InheritsFrom doll,machine InheritsFrom doll,1
+machine CreatedBy person,person InheritsFrom master control,machine InheritsFrom master control,1
+machine CreatedBy person,person InheritsFrom food store,machine InheritsFrom food store,1
+skyscraper CreatedBy person,person InheritsFrom steak,skyscraper InheritsFrom steak,1
+skyscraper CreatedBy person,person InheritsFrom apple,skyscraper InheritsFrom apple,1
+skyscraper CreatedBy person,person InheritsFrom doll,skyscraper InheritsFrom doll,1
+skyscraper CreatedBy person,person InheritsFrom master control,skyscraper InheritsFrom master control,1
+skyscraper CreatedBy person,person InheritsFrom food store,skyscraper InheritsFrom food store,1
+ai CreatedBy person,person InheritsFrom steak,ai InheritsFrom steak,1
+ai CreatedBy person,person InheritsFrom apple,ai InheritsFrom apple,1
+ai CreatedBy person,person InheritsFrom doll,ai InheritsFrom doll,1
+ai CreatedBy person,person InheritsFrom master control,ai InheritsFrom master control,1
+ai CreatedBy person,person InheritsFrom food store,ai InheritsFrom food store,1
+vinyl CreatedBy human,human InheritsFrom master control,vinyl InheritsFrom master control,1
+reality CreatedBy god,god InheritsFrom pastor,reality InheritsFrom pastor,1
+dam CreatedBy human,human InheritsFrom master control,dam InheritsFrom master control,1
+satan CreatedBy god,god InheritsFrom pastor,satan InheritsFrom pastor,1
+url CreatedBy person,person InheritsFrom steak,url InheritsFrom steak,1
+url CreatedBy person,person InheritsFrom apple,url InheritsFrom apple,1
+url CreatedBy person,person InheritsFrom doll,url InheritsFrom doll,1
+url CreatedBy person,person InheritsFrom master control,url InheritsFrom master control,1
+url CreatedBy person,person InheritsFrom food store,url InheritsFrom food store,1
+artifact CreatedBy person,person InheritsFrom steak,artifact InheritsFrom steak,1
+artifact CreatedBy person,person InheritsFrom apple,artifact InheritsFrom apple,1
+artifact CreatedBy person,person InheritsFrom doll,artifact InheritsFrom doll,1
+artifact CreatedBy person,person InheritsFrom master control,artifact InheritsFrom master control,1
+artifact CreatedBy person,person InheritsFrom food store,artifact InheritsFrom food store,1
+bible say everything CreatedBy god,god InheritsFrom pastor,bible say everything InheritsFrom pastor,1
+similarity between stair cord both CreatedBy human,human InheritsFrom master control,similarity between stair cord both InheritsFrom master control,1
+tissue holder need CreatedBy person,person InheritsFrom steak,tissue holder need InheritsFrom steak,1
+tissue holder need CreatedBy person,person InheritsFrom apple,tissue holder need InheritsFrom apple,1
+tissue holder need CreatedBy person,person InheritsFrom doll,tissue holder need InheritsFrom doll,1
+tissue holder need CreatedBy person,person InheritsFrom master control,tissue holder need InheritsFrom master control,1
+tissue holder need CreatedBy person,person InheritsFrom food store,tissue holder need InheritsFrom food store,1
+satan supposedly powerful supernatural CreatedBy god,god InheritsFrom pastor,satan supposedly powerful supernatural InheritsFrom pastor,1
+system abstract think CreatedBy person,person InheritsFrom steak,system abstract think InheritsFrom steak,1
+system abstract think CreatedBy person,person InheritsFrom apple,system abstract think InheritsFrom apple,1
+system abstract think CreatedBy person,person InheritsFrom doll,system abstract think InheritsFrom doll,1
+system abstract think CreatedBy person,person InheritsFrom master control,system abstract think InheritsFrom master control,1
+system abstract think CreatedBy person,person InheritsFrom food store,system abstract think InheritsFrom food store,1
+ideology CreatedBy person,person InheritsFrom steak,ideology InheritsFrom steak,1
+ideology CreatedBy person,person InheritsFrom apple,ideology InheritsFrom apple,1
+ideology CreatedBy person,person InheritsFrom doll,ideology InheritsFrom doll,1
+ideology CreatedBy person,person InheritsFrom master control,ideology InheritsFrom master control,1
+ideology CreatedBy person,person InheritsFrom food store,ideology InheritsFrom food store,1
+paper airplane CreatedBy human,human InheritsFrom master control,paper airplane InheritsFrom master control,1
+jnosanov CreatedBy god,god InheritsFrom pastor,jnosanov InheritsFrom pastor,1
+osx CreatedBy apple,apple InheritsFrom person,osx InheritsFrom person,1

@@ -1,0 +1,171 @@
+premise_1,premise_2,inferred,support_count
+fuck DefinedAs sex,sex MadeOf poopy,fuck MadeOf poopy,1
+fuck DefinedAs sex,sex MadeOf hormone,fuck MadeOf hormone,1
+wagon DefinedAs car,car MadeOf many recyclable material,wagon MadeOf many recyclable material,1
+wagon DefinedAs car,car MadeOf metal,wagon MadeOf metal,1
+wagon DefinedAs car,car MadeOf mainly metal other material,wagon MadeOf mainly metal other material,1
+wagon DefinedAs car,car MadeOf industry,wagon MadeOf industry,1
+wagon DefinedAs car,car MadeOf iron,wagon MadeOf iron,1
+wagon DefinedAs car,car MadeOf aluminium,wagon MadeOf aluminium,1
+wagon DefinedAs car,car MadeOf part,wagon MadeOf part,1
+wagon DefinedAs car,car MadeOf many,wagon MadeOf many,1
+weasel DefinedAs person,person MadeOf plastic,weasel MadeOf plastic,1
+weasel DefinedAs person,person MadeOf live cell,weasel MadeOf live cell,1
+weasel DefinedAs person,person MadeOf meat,weasel MadeOf meat,1
+weasel DefinedAs person,person MadeOf metal,weasel MadeOf metal,1
+it DefinedAs statue liberty,statue liberty MadeOf copper,it MadeOf copper,1
+it DefinedAs statue liberty,statue liberty MadeOf marble,it MadeOf marble,1
+movie DefinedAs movie,movie MadeOf celluloid,movie MadeOf celluloid,1
+movie DefinedAs movie,movie MadeOf many still picture shown quickly,movie MadeOf many still picture shown quickly,1
+movie DefinedAs movie,movie MadeOf many frame,movie MadeOf many frame,1
+movie DefinedAs movie,movie MadeOf many photograph flash quickly succession screen darken room give illusion motion,movie MadeOf many photograph flash quickly succession screen darken room give illusion motion,1
+game DefinedAs animal,animal MadeOf cell molecule atom,game MadeOf cell molecule atom,1
+learn DefinedAs life,life MadeOf memory,learn MadeOf memory,1
+typewriter DefinedAs this,this MadeOf metal,typewriter MadeOf metal,1
+pen DefinedAs book,book MadeOf paper page,pen MadeOf paper page,1
+pen DefinedAs book,book MadeOf worm dust,pen MadeOf worm dust,1
+pen DefinedAs book,book MadeOf many sheet contain information many topic person read book gain knowledge nowadays information many book storage computer memory,pen MadeOf many sheet contain information many topic person read book gain knowledge nowadays information many book storage computer memory,1
+pen DefinedAs book,book MadeOf many piece paper put together signature bind,pen MadeOf many piece paper put together signature bind,1
+pen DefinedAs book,book MadeOf stack sheet paper,pen MadeOf stack sheet paper,1
+leaf DefinedAs page book,page book MadeOf paper,leaf MadeOf paper,1
+text DefinedAs written word,written word MadeOf character,text MadeOf character,1
+this DefinedAs capitol dome,capitol dome MadeOf iron,this MadeOf iron,1
+this DefinedAs statue liberty,statue liberty MadeOf copper,this MadeOf copper,1
+this DefinedAs statue liberty,statue liberty MadeOf marble,this MadeOf marble,1
+that DefinedAs statue liberty,statue liberty MadeOf copper,that MadeOf copper,1
+that DefinedAs statue liberty,statue liberty MadeOf marble,that MadeOf marble,1
+mammal DefinedAs dog,dog MadeOf fur,mammal MadeOf fur,1
+mammal DefinedAs dog,dog MadeOf hair,mammal MadeOf hair,1
+mammal DefinedAs dog,dog MadeOf flesh bone,mammal MadeOf flesh bone,1
+mammal DefinedAs dog,dog MadeOf live meat,mammal MadeOf live meat,1
+god DefinedAs love,love MadeOf share care,god MadeOf share care,1
+god DefinedAs love,love MadeOf hope,god MadeOf hope,1
+god DefinedAs love,love MadeOf poopy,god MadeOf poopy,1
+java DefinedAs coffee,coffee MadeOf water,java MadeOf water,1
+java DefinedAs coffee,coffee MadeOf coffee bean,java MadeOf coffee bean,1
+java DefinedAs coffee,coffee MadeOf cofee bean witch contain caffeine natural ingredient,java MadeOf cofee bean witch contain caffeine natural ingredient,1
+clinton DefinedAs president,president MadeOf substance dumb,clinton MadeOf substance dumb,1
+corn DefinedAs this,this MadeOf metal,corn MadeOf metal,1
+energy DefinedAs everything,everything MadeOf molecule,energy MadeOf molecule,1
+energy DefinedAs everything,everything MadeOf something,energy MadeOf something,1
+energy DefinedAs everything,everything MadeOf mind stuff,energy MadeOf mind stuff,1
+energy DefinedAs everything,everything MadeOf matter,energy MadeOf matter,1
+fear DefinedAs key,key MadeOf metal,fear MadeOf metal,1
+fear DefinedAs key,key MadeOf brass steel,fear MadeOf brass steel,1
+religion DefinedAs unite divide mass,unite divide mass MadeOf scheme,religion MadeOf scheme,1
+carl sagan DefinedAs man,man MadeOf steel,carl sagan MadeOf steel,1
+carl sagan DefinedAs man,man MadeOf matter,carl sagan MadeOf matter,1
+carl sagan DefinedAs man,man MadeOf emotion,carl sagan MadeOf emotion,1
+gas DefinedAs gasoline,gasoline MadeOf crude oil,gas MadeOf crude oil,1
+not know DefinedAs use,use MadeOf hoof,not know MadeOf hoof,1
+movie ticket DefinedAs movie ticket,movie ticket MadeOf paper,movie ticket MadeOf paper,1
+iron DefinedAs golf club,golf club MadeOf metal,iron MadeOf metal,1
+sol DefinedAs sun,sun MadeOf atom,sol MadeOf atom,1
+sol DefinedAs sun,sun MadeOf athom,sol MadeOf athom,1
+sheet DefinedAs linen,linen MadeOf cotton,sheet MadeOf cotton,1
+picnic DefinedAs this,this MadeOf metal,picnic MadeOf metal,1
+cream cheese DefinedAs word,word MadeOf letter,cream cheese MadeOf letter,1
+cream cheese DefinedAs word,word MadeOf letter alphabet,cream cheese MadeOf letter alphabet,1
+consumer DefinedAs person,person MadeOf plastic,consumer MadeOf plastic,1
+consumer DefinedAs person,person MadeOf live cell,consumer MadeOf live cell,1
+consumer DefinedAs person,person MadeOf meat,consumer MadeOf meat,1
+consumer DefinedAs person,person MadeOf metal,consumer MadeOf metal,1
+soft drink DefinedAs soda,soda MadeOf aluminum,soft drink MadeOf aluminum,1
+summer basket DefinedAs green,green MadeOf blue yello,summer basket MadeOf blue yello,1
+duckie DefinedAs rubber duck,rubber duck MadeOf plastic,duckie MadeOf plastic,1
+find outside DefinedAs sky,sky MadeOf gas,find outside MadeOf gas,1
+find outside DefinedAs sun,sun MadeOf atom,find outside MadeOf atom,1
+find outside DefinedAs sun,sun MadeOf athom,find outside MadeOf athom,1
+pierce brosnan DefinedAs man,man MadeOf steel,pierce brosnan MadeOf steel,1
+pierce brosnan DefinedAs man,man MadeOf matter,pierce brosnan MadeOf matter,1
+pierce brosnan DefinedAs man,man MadeOf emotion,pierce brosnan MadeOf emotion,1
+client DefinedAs person,person MadeOf plastic,client MadeOf plastic,1
+client DefinedAs person,person MadeOf live cell,client MadeOf live cell,1
+client DefinedAs person,person MadeOf meat,client MadeOf meat,1
+client DefinedAs person,person MadeOf metal,client MadeOf metal,1
+form art DefinedAs music,music MadeOf organize sound,form art MadeOf organize sound,1
+picture frame DefinedAs this,this MadeOf metal,picture frame MadeOf metal,1
+thomas jefferson DefinedAs president,president MadeOf substance dumb,thomas jefferson MadeOf substance dumb,1
+mutt DefinedAs dog,dog MadeOf fur,mutt MadeOf fur,1
+mutt DefinedAs dog,dog MadeOf hair,mutt MadeOf hair,1
+mutt DefinedAs dog,dog MadeOf flesh bone,mutt MadeOf flesh bone,1
+mutt DefinedAs dog,dog MadeOf live meat,mutt MadeOf live meat,1
+pigskin DefinedAs football,football MadeOf pigskin,pigskin MadeOf pigskin,1
+adjustable wrench DefinedAs tool,tool MadeOf iron,adjustable wrench MadeOf iron,1
+adjustable wrench DefinedAs tool,tool MadeOf metal,adjustable wrench MadeOf metal,1
+adjustable wrench DefinedAs tool,tool MadeOf clay,adjustable wrench MadeOf clay,1
+adjustable wrench DefinedAs tool,tool MadeOf metal because metal strong,adjustable wrench MadeOf metal because metal strong,1
+adjustable wrench DefinedAs tool,tool MadeOf steel,adjustable wrench MadeOf steel,1
+head state DefinedAs president,president MadeOf substance dumb,head state MadeOf substance dumb,1
+george DefinedAs president,president MadeOf substance dumb,george MadeOf substance dumb,1
+hoosy hysteria indiana DefinedAs basketball,basketball MadeOf rubber,hoosy hysteria indiana MadeOf rubber,1
+rubber england DefinedAs eraser,eraser MadeOf rubber,rubber england MadeOf rubber,1
+rubber england DefinedAs eraser,eraser MadeOf gum rubber,rubber england MadeOf gum rubber,1
+rubber england DefinedAs eraser,eraser MadeOf soft rubber compound remove erase pencil mark paper,rubber england MadeOf soft rubber compound remove erase pencil mark paper,1
+best place read DefinedAs chair,chair MadeOf plastic,best place read MadeOf plastic,1
+best place read DefinedAs chair,chair MadeOf plastic good outdoor use,best place read MadeOf plastic good outdoor use,1
+automatic weapon DefinedAs machine gun,machine gun MadeOf metal,automatic weapon MadeOf metal,1
+method transportation DefinedAs bicycle,bicycle MadeOf metal,method transportation MadeOf metal,1
+method transportation DefinedAs bicycle,bicycle MadeOf steel aluminum composite material,method transportation MadeOf steel aluminum composite material,1
+target make up ring DefinedAs this,this MadeOf metal,target make up ring MadeOf metal,1
+skyscraper because tall DefinedAs building,building MadeOf concrete brick,skyscraper because tall MadeOf concrete brick,1
+plunger plumber helper DefinedAs this,this MadeOf metal,plunger plumber helper MadeOf metal,1
+world globe DefinedAs object,object MadeOf metal,world globe MadeOf metal,1
+world globe DefinedAs object,object MadeOf plastic,world globe MadeOf plastic,1
+world globe DefinedAs object,object MadeOf wood,world globe MadeOf wood,1
+close star earth DefinedAs sun,sun MadeOf atom,close star earth MadeOf atom,1
+close star earth DefinedAs sun,sun MadeOf athom,close star earth MadeOf athom,1
+efficient type macine DefinedAs bicycle,bicycle MadeOf metal,efficient type macine MadeOf metal,1
+efficient type macine DefinedAs bicycle,bicycle MadeOf steel aluminum composite material,efficient type macine MadeOf steel aluminum composite material,1
+efficient type machine DefinedAs bicycle,bicycle MadeOf metal,efficient type machine MadeOf metal,1
+efficient type machine DefinedAs bicycle,bicycle MadeOf steel aluminum composite material,efficient type machine MadeOf steel aluminum composite material,1
+description DefinedAs this,this MadeOf metal,description MadeOf metal,1
+life perserver DefinedAs candy,candy MadeOf sugar,life perserver MadeOf sugar,1
+brigette lubbock DefinedAs person,person MadeOf plastic,brigette lubbock MadeOf plastic,1
+brigette lubbock DefinedAs person,person MadeOf live cell,brigette lubbock MadeOf live cell,1
+brigette lubbock DefinedAs person,person MadeOf meat,brigette lubbock MadeOf meat,1
+brigette lubbock DefinedAs person,person MadeOf metal,brigette lubbock MadeOf metal,1
+breast booby DefinedAs boob,boob MadeOf soft tissue,breast booby MadeOf soft tissue,1
+human outer layer flesh DefinedAs skin,skin MadeOf cell,human outer layer flesh MadeOf cell,1
+jew glass before political corrctness DefinedAs use,use MadeOf hoof,jew glass before political corrctness MadeOf hoof,1
+rarebird DefinedAs this,this MadeOf metal,rarebird MadeOf metal,1
+soccer unite kingdom DefinedAs football,football MadeOf pigskin,soccer unite kingdom MadeOf pigskin,1
+universal solvent DefinedAs water,water MadeOf h2o,universal solvent MadeOf h2o,1
+universal solvent DefinedAs water,water MadeOf oxegen,universal solvent MadeOf oxegen,1
+divan chesterfield DefinedAs sofa,sofa MadeOf material,divan chesterfield MadeOf material,1
+divan chesterfield DefinedAs sofa,sofa MadeOf cloth leather,divan chesterfield MadeOf cloth leather,1
+divan chesterfield DefinedAs sofa,sofa MadeOf leather,divan chesterfield MadeOf leather,1
+soccer america DefinedAs football,football MadeOf pigskin,soccer america MadeOf pigskin,1
+activity person DefinedAs movie,movie MadeOf celluloid,activity person MadeOf celluloid,1
+activity person DefinedAs movie,movie MadeOf many still picture shown quickly,activity person MadeOf many still picture shown quickly,1
+activity person DefinedAs movie,movie MadeOf many frame,activity person MadeOf many frame,1
+activity person DefinedAs movie,movie MadeOf many photograph flash quickly succession screen darken room give illusion motion,activity person MadeOf many photograph flash quickly succession screen darken room give illusion motion,1
+card because jovial nature DefinedAs person,person MadeOf plastic,card because jovial nature MadeOf plastic,1
+card because jovial nature DefinedAs person,person MadeOf live cell,card because jovial nature MadeOf live cell,1
+card because jovial nature DefinedAs person,person MadeOf meat,card because jovial nature MadeOf meat,1
+card because jovial nature DefinedAs person,person MadeOf metal,card because jovial nature MadeOf metal,1
+only god leave alive DefinedAs tv,tv MadeOf plastic,only god leave alive MadeOf plastic,1
+only god leave alive DefinedAs tv,tv MadeOf glass,only god leave alive MadeOf glass,1
+only god leave alive DefinedAs tv,tv MadeOf metal,only god leave alive MadeOf metal,1
+lavage stomach irrigate DefinedAs it,it MadeOf animal,lavage stomach irrigate MadeOf animal,1
+lavage stomach irrigate DefinedAs it,it MadeOf grass,lavage stomach irrigate MadeOf grass,1
+lavage stomach irrigate DefinedAs it,it MadeOf wood,lavage stomach irrigate MadeOf wood,1
+lavage stomach irrigate DefinedAs it,it MadeOf corrugate cardboard,lavage stomach irrigate MadeOf corrugate cardboard,1
+lavage stomach irrigate DefinedAs it,it MadeOf rattan plastic,lavage stomach irrigate MadeOf rattan plastic,1
+sponsor project DefinedAs government,government MadeOf political ideology,sponsor project MadeOf political ideology,1
+sponsor project DefinedAs government,government MadeOf 3 branch juducial legislative executive,sponsor project MadeOf 3 branch juducial legislative executive,1
+sponsor project DefinedAs government,government MadeOf person organization,sponsor project MadeOf person organization,1
+china primary personal vehicle DefinedAs bicycle,bicycle MadeOf metal,china primary personal vehicle MadeOf metal,1
+china primary personal vehicle DefinedAs bicycle,bicycle MadeOf steel aluminum composite material,china primary personal vehicle MadeOf steel aluminum composite material,1
+simit turkish DefinedAs this,this MadeOf metal,simit turkish MadeOf metal,1
+kendo DefinedAs sword,sword MadeOf steel,kendo MadeOf steel,1
+kendo DefinedAs sword,sword MadeOf metal,kendo MadeOf metal,1
+myself DefinedAs human,human MadeOf flesh blood,myself MadeOf flesh blood,1
+myself DefinedAs human,human MadeOf feelings,myself MadeOf feelings,1
+myself DefinedAs human,human MadeOf protoplasm,myself MadeOf protoplasm,1
+myself DefinedAs human,human MadeOf meat,myself MadeOf meat,1
+myself DefinedAs human,human MadeOf flesh,myself MadeOf flesh,1
+myself DefinedAs human,human MadeOf soil,myself MadeOf soil,1
+myself DefinedAs human,human MadeOf organic tissue among other,myself MadeOf organic tissue among other,1
+myself DefinedAs human,human MadeOf live meat,myself MadeOf live meat,1
+myself DefinedAs human,human MadeOf mostly water,myself MadeOf mostly water,1
